@@ -33,4 +33,5 @@ namespace HelloWorld_Android_IOS
             display.Text = string.Format("{0}'s Counter", e.NewTextValue);
         }
     }
+
 }
